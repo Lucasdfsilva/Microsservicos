@@ -718,22 +718,6 @@
             "related": ".xml"
           }
         }
-      },
-      "Data/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "AutoMapper": "13.0.1",
-          "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1",
-          "Microsoft.AspNetCore.Authentication.JwtBearer": "6.0.27",
-          "Pomelo.EntityFrameworkCore.MySql": "6.0.2"
-        },
-        "compile": {
-          "bin/placeholder/Data.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Data.dll": {}
-        }
       }
     }
   },
@@ -2128,18 +2112,12 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
-    },
-    "Data/1.0.0": {
-      "type": "project",
-      "path": "../Data/Data.csproj",
-      "msbuildProject": "../Data/Data.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "AutoMapper >= 13.0.1",
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 12.0.1",
-      "Data >= 1.0.0",
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 6.0.27",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.27",
       "Pomelo.EntityFrameworkCore.MySql >= 6.0.2",
@@ -2180,11 +2158,7 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {
-            "E:\\Developer\\Csharp\\Microsservicos\\Microsserviços\\Data\\Data.csproj": {
-              "projectPath": "E:\\Developer\\Csharp\\Microsservicos\\Microsserviços\\Data\\Data.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
