@@ -1,0 +1,15 @@
+E:\Developer\Csharp\Microsservicos\Microsserviços\Data\bin\Debug\net6.0\Data.deps.json
+E:\Developer\Csharp\Microsservicos\Microsserviços\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+E:\Developer\Csharp\Microsservicos\Microsserviços\Data\bin\Debug\net6.0\Data.dll
+E:\Developer\Csharp\Microsservicos\Microsserviços\Data\bin\Debug\net6.0\Data.pdb
+E:\Developer\Csharp\Microsservicos\Microsserviços\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+E:\Developer\Csharp\Microsservicos\Microsserviços\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Developer\Csharp\Microsservicos\Microsserviços\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+E:\Developer\Csharp\Microsservicos\Microsserviços\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+E:\Developer\Csharp\Microsservicos\Microsserviços\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+E:\Developer\Csharp\Microsservicos\Microsserviços\Data\obj\Debug\net6.0\Data.sourcelink.json
+E:\Developer\Csharp\Microsservicos\Microsserviços\Data\obj\Debug\net6.0\Data.dll
+E:\Developer\Csharp\Microsservicos\Microsserviços\Data\obj\Debug\net6.0\refint\Data.dll
+E:\Developer\Csharp\Microsservicos\Microsserviços\Data\obj\Debug\net6.0\Data.pdb
+E:\Developer\Csharp\Microsservicos\Microsserviços\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
+E:\Developer\Csharp\Microsservicos\Microsserviços\Data\obj\Debug\net6.0\ref\Data.dll
