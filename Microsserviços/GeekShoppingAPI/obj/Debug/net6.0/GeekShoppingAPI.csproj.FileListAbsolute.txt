@@ -32,7 +32,6 @@ E:\Developer\Csharp\Microsservicos\Microsserviços\GeekShoppingAPI\obj\Debug\net
 E:\Developer\Csharp\Microsservicos\Microsserviços\GeekShoppingAPI\obj\Debug\net6.0\GeekShoppingAPI.genruntimeconfig.cache
 E:\Developer\Csharp\Microsservicos\Microsserviços\GeekShoppingAPI\obj\Debug\net6.0\ref\GeekShoppingAPI.dll
 E:\Developer\Csharp\Microsservicos\Microsserviços\GeekShoppingAPI\bin\Debug\net6.0\AutoMapper.dll
-E:\Developer\Csharp\Microsservicos\Microsserviços\GeekShoppingAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 E:\Developer\Csharp\Microsservicos\Microsserviços\GeekShoppingAPI\bin\Debug\net6.0\Humanizer.dll
 E:\Developer\Csharp\Microsservicos\Microsserviços\GeekShoppingAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 E:\Developer\Csharp\Microsservicos\Microsserviços\GeekShoppingAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
