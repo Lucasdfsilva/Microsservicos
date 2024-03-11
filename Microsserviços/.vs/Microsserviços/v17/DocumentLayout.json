@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Developer\\Csharp\\Microsservicos\\Microsservi\u00E7os\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19B98E51-8E8E-4172-A88C-CBA76FDCA50C}|GeekShoppingAPI\\GeekShoppingAPI.csproj|e:\\developer\\csharp\\microsservicos\\microsservi\u00E7os\\geekshoppingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B98E51-8E8E-4172-A88C-CBA76FDCA50C}|GeekShoppingAPI\\GeekShoppingAPI.csproj|solutionrelative:geekshoppingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B98E51-8E8E-4172-A88C-CBA76FDCA50C}|GeekShoppingAPI\\GeekShoppingAPI.csproj|e:\\developer\\csharp\\microsservicos\\microsservi\u00E7os\\geekshoppingapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{19B98E51-8E8E-4172-A88C-CBA76FDCA50C}|GeekShoppingAPI\\GeekShoppingAPI.csproj|solutionrelative:geekshoppingapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3565DD-AF76-4814-BEA2-E23072191B6E}|Data\\Data.csproj|e:\\developer\\csharp\\microsservicos\\microsservi\u00E7os\\data\\models\\context\\mysqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A3565DD-AF76-4814-BEA2-E23072191B6E}|Data\\Data.csproj|solutionrelative:data\\models\\context\\mysqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3565DD-AF76-4814-BEA2-E23072191B6E}|Data\\Data.csproj|e:\\developer\\csharp\\microsservicos\\microsservi\u00E7os\\data\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A3565DD-AF76-4814-BEA2-E23072191B6E}|Data\\Data.csproj|solutionrelative:data\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 662,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Developer\\Csharp\\Microsservicos\\Microsservi\u00E7os\\GeekShoppingAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "GeekShoppingAPI\\appsettings.json",
+              "ToolTip": "E:\\Developer\\Csharp\\Microsservicos\\Microsservi\u00E7os\\GeekShoppingAPI\\appsettings.json",
+              "RelativeToolTip": "GeekShoppingAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-11T16:38:33.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Developer\\Csharp\\Microsservicos\\Microsservi\u00E7os\\GeekShoppingAPI\\Program.cs",
+              "RelativeDocumentMoniker": "GeekShoppingAPI\\Program.cs",
+              "ToolTip": "E:\\Developer\\Csharp\\Microsservicos\\Microsservi\u00E7os\\GeekShoppingAPI\\Program.cs",
+              "RelativeToolTip": "GeekShoppingAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T16:31:37.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MySQLContext.cs",
+              "DocumentMoniker": "E:\\Developer\\Csharp\\Microsservicos\\Microsservi\u00E7os\\Data\\Models\\Context\\MySQLContext.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Context\\MySQLContext.cs",
+              "ToolTip": "E:\\Developer\\Csharp\\Microsservicos\\Microsservi\u00E7os\\Data\\Models\\Context\\MySQLContext.cs",
+              "RelativeToolTip": "Data\\Models\\Context\\MySQLContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T16:29:13.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "E:\\Developer\\Csharp\\Microsservicos\\Microsservi\u00E7os\\Data\\Models\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Base\\BaseEntity.cs",
+              "ToolTip": "E:\\Developer\\Csharp\\Microsservicos\\Microsservi\u00E7os\\Data\\Models\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "Data\\Models\\Base\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T16:27:40.294Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
